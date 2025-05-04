@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey there, I'm Lucas (aka Hoàng Đình Lực)
 
-<!--
-**hoangluc98/hoangluc98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Engineer @ [Savvycom](https://savvycomsoftware.com)  
+🧠 Passionate about turning complex ideas into elegant, snappy interfaces  
+🛠️ Specializing in: React ⚛️ • TypeScript 🦕 • Next.js ⚡  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 A bit about me
+
+I'm a code-slinging, UI-polishing, pixel-perfecting **Frontend Engineer** who enjoys crafting beautiful, user-friendly web apps. Whether it’s a sleek landing page or a high-performance dashboard, I’m all about building UIs that *feel right*.
+
+When I’m not wrangling components or chasing down those elusive CSS bugs, you’ll find me:
+
+🏓 **Serving aces in table tennis**  
+🏸 **Smashing birdies in badminton**  
+🤖 Or tinkering with side projects for fun (and maybe fortune)
+
+---
+
+## 🔧 Tech Toolbox
+
+- **Languages**: JavaScript (ES6+), TypeScript  
+- **Frameworks**: React, Next.js  
+- **Styling**: CSS Modules, Styled Components, TailwindCSS  
+- **Tooling**: Git, Vite, Webpack, ESLint, Prettier  
+
+---
+
+## 🔍 Currently...
+
+- 💼 Building awesome things at **Savvycom**
+- 🌱 Learning more about performance optimization and UI animations
+- ☕ Looking to collaborate on exciting frontend projects
+
+---
+
+## 📫 Let’s connect!
+
+[![LinkedIn](https://img.shields.io/badge/-lucas--hoang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-hoang/)](https://www.linkedin.com/in/lucas-hoang/)
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — Cory House
+
+Thanks for stopping by! 👨‍💻
