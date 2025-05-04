@@ -21,9 +21,9 @@ When I’m not wrangling components or chasing down those elusive CSS bugs, you�
 ## 🔧 Tech Toolbox
 
 - **Languages**: JavaScript (ES6+), TypeScript  
-- **Frameworks**: React, Next.js  
-- **Styling**: CSS Modules, Styled Components, TailwindCSS  
-- **Tooling**: Git, Vite, Webpack, ESLint, Prettier  
+- **Frameworks**: React, Next.js, Vue, Nuxt.js, Nest.js  
+- **Styling**: CSS Modules, Styled Components, TailwindCSS, Bootstrap  
+- **Tooling**: Git, Vite, Webpack, Docker, ESLint, Prettier  
 
 ---
 
